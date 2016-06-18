@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Cleveland_Cavaliers
 {
-    class Player
+    public class Player
     {
     }
 }
